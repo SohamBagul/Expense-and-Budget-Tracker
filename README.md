@@ -1,3 +1,14 @@
+## Expense Tracking & Budget Management System
+
+Full-stack finance management application built using:
+
+- FastAPI
+- JWT Authentication
+- SQLAlchemy
+- SQLite
+- Streamlit
+- Plotly
+
 ## Screenshots
 
 ### Login Page
