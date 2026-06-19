@@ -2,23 +2,23 @@
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Add Expense
 
-![Add Expense](screenshots/add_expense.png)
+![Add Expense](screenshots/Add_expense.png)
 
 ### Reports
 
-![Reports](screenshots/reports.png)
+![Reports](screenshots/Reports.png)
 
 ### Database
 
-![Database](screenshots/database.png)
+![Database](screenshots/Database.png)
 
 # Expense Tracking & Budget Management System
 
