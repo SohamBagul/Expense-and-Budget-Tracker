@@ -21,7 +21,7 @@ Full-stack finance management application built using:
 
 ### Add Expense
 
-![Add Expense](screenshots/Add_Expense.png)
+![Add Expense](screenshots/Add_Expenses.png)
 
 ### Reports
 
