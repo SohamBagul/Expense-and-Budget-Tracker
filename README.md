@@ -1,3 +1,25 @@
+## Screenshots
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add Expense
+
+![Add Expense](screenshots/add_expense.png)
+
+### Reports
+
+![Reports](screenshots/reports.png)
+
+### Database
+
+![Database](screenshots/database.png)
+
 # Expense Tracking & Budget Management System
 
 A full-stack college project for tracking expenses, managing income, setting budgets, and viewing financial reports.
